@@ -1,4 +1,3 @@
-# https://github.com/akrabat/slim-bookshelf-api/tree/master/web/src
 Feature: Log in
 
   # POST /authenticate
